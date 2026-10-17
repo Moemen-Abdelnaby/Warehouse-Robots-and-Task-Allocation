@@ -23,3 +23,6 @@ Resources/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Local files excluded from the GitHub upload
+local-only/
