@@ -1,0 +1,25 @@
+# Local Python dependencies and environments
+.deps/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Generated previews, runtime files and notebook autosaves
+tmp/
+.ipynb_checkpoints/
+Plotly_Example.html
+
+# Original course materials and downloaded archives; not needed to run the solution
+Resources/
+*.zip
+
+# Machine-specific settings and secrets
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
